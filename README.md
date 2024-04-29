@@ -11,3 +11,7 @@ The SteamVR driver used to be based off of [TrueOpenVR](https://github.com/TrueO
 I'm planning to make controllers and hmd based of [HadesVR](https://github.com/HadesVR/HadesVR) and [FloV3R](https://github.com/Kwiatens/FloV3R)
 # PCBs and 3D printing
 There is no files for PCB or 3D Printing for now
+# Goals
+1.Make a good VR Standart for playing SteamVR Games
+2.Make a wifi data streaming to hmd
+3.Make a standalone VR Headset with Steam as game library
