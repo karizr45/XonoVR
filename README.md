@@ -1,5 +1,7 @@
 # XonoVR
 A VR standart compatible with SteamVR made for tinkerers.
+
+Discord: [XonoVR](https://discord.gg/nnscnMbZgC)
 # Credits
 Liquid for creating [HadesVR](https://github.com/HadesVR) and HadesVR Driver.
 
