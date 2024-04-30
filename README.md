@@ -10,10 +10,13 @@ Externet for creating [PSMoveServiceEx](https://github.com/Timocop/PSMoveService
 (From [HadesVR Readme.md](https://github.com/HadesVR/HadesVR?tab=readme-ov-file))
 The SteamVR driver used to be based off of [TrueOpenVR](https://github.com/TrueOpenVR) but it's modified so heavily I'm making it it's own thing. This driver also uses [PSMoveServiceEX](https://github.com/Timocop/PSMoveServiceEx) (for now at least) for the positional tracking of HMD and controllers, using ping pong balls and different colours of LED's.
 # Devices
-I'm planning to make controllers and hmd based of [HadesVR](https://github.com/HadesVR/HadesVR) and [FloV3R](https://github.com/Kwiatens/FloV3R)
+I'm planning to make controllers and hmd based of [HadesVR](https://github.com/HadesVR/HadesVR) and [FloV3R](https://github.com/Kwiatens/FloV3R) but with changes such as changing position tracking technology
+from color to IR or changing code and adding new elements
 # PCBs and 3D printing
 There is no files for PCB or 3D Printing for now
 # Goals
 1.Make a good VR Standart for playing SteamVR Games
+
 2.Make a wifi data streaming to hmd
+
 3.Make a standalone VR Headset with Steam as game library
