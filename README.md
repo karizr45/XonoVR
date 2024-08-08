@@ -1,6 +1,8 @@
 # XonoVR
 A VR standart compatible with SteamVR.
 
+#THIS PROJECT IS CURRENTLY DISCONTINUED DUE TO A LOT OF OTHER VR PROJECTS THAT BETTER THAT THIS
+
 Discord: [XonoVR](https://discord.gg/nnscnMbZgC)
 # Credits
 Liquid for creating [HadesVR](https://github.com/HadesVR) and HadesVR Driver.
